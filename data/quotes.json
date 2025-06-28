@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "quote": "Love is not always easy, but it’s worth the fight.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 2,
+    "quote": "The moments we share are the only ones that matter.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 3,
+    "quote": "In silence, our hearts speak the most.",
+    "play": "The Winter’s Tale"
+  },
+  {
+    "id": 4,
+    "quote": "You are my world, and I would give all to see you smile.",
+    "play": "The Taming of the Shrew"
+  },
+  {
+    "id": 5,
+    "quote": "All my thoughts are consumed by you.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 6,
+    "quote": "Time is never enough for the ones we love.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 7,
+    "quote": "I will carry you with me, even if I am far from you.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 8,
+    "quote": "Love will find its way, even in the darkest of times.",
+    "play": "The Winter’s Tale"
+  },
+  {
+    "id": 9,
+    "quote": "To be with you is to feel home.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 10,
+    "quote": "There is no place for regret in love.",
+    "play": "As You Like It"
+  },
+  {
+    "id": 11,
+    "quote": "You make me feel alive in a world of darkness.",
+    "play": "King Lear"
+  },
+  {
+    "id": 12,
+    "quote": "When we are together, all feels right.",
+    "play": "The Merchant of Venice"
+  },
+  {
+    "id": 13,
+    "quote": "If I could choose one moment to live forever, it would be the one I spent with you.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 14,
+    "quote": "My love for you will never fade.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 15,
+    "quote": "In your eyes, I find my peace.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 16,
+    "quote": "We may be apart, but love never leaves us.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 17,
+    "quote": "Even in sorrow, you are my joy.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 18,
+    "quote": "The heart cannot be forced to love; it chooses on its own.",
+    "play": "Macbeth"
+  },
+  {
+    "id": 19,
+    "quote": "I would not trade this love for all the gold in the world.",
+    "play": "As You Like It"
+  },
+  {
+    "id": 20,
+    "quote": "You are the one I never want to lose.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 21,
+    "quote": "Your heart is my home.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 22,
+    "quote": "Love is the greatest force in this world.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 23,
+    "quote": "I shall always cherish the moments we’ve shared.",
+    "play": "The Winter’s Tale"
+  },
+  {
+    "id": 24,
+    "quote": "Your laughter is all I need.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 25,
+    "quote": "Even in silence, I hear your heart.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 26,
+    "quote": "You are the reason I wake each day.",
+    "play": "The Merchant of Venice"
+  },
+  {
+    "id": 27,
+    "quote": "My heart beats for you alone.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 28,
+    "quote": "Love will carry us through all things.",
+    "play": "As You Like It"
+  },
+  {
+    "id": 29,
+    "quote": "Through all hardships, I stand by you.",
+    "play": "King Lear"
+  },
+  {
+    "id": 30,
+    "quote": "You are my sunshine on the darkest days.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 31,
+    "quote": "I would rather be with you in sorrow than alone in joy.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 32,
+    "quote": "The best love is the one that is shared in silence.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 33,
+    "quote": "You are my soul’s delight.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 34,
+    "quote": "No distance can keep my heart from you.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 35,
+    "quote": "I wish for nothing more than to be with you.",
+    "play": "As You Like It"
+  },
+  {
+    "id": 36,
+    "quote": "All I need is you by my side.",
+    "play": "The Winter’s Tale"
+  },
+  {
+    "id": 37,
+    "quote": "You are my strength in times of weakness.",
+    "play": "The Merchant of Venice"
+  },
+  {
+    "id": 38,
+    "quote": "Your love is my salvation.",
+    "play": "King Lear"
+  },
+  {
+    "id": 39,
+    "quote": "I love you beyond all measure.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 40,
+    "quote": "Every moment with you is a gift I cherish.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 41,
+    "quote": "Your love makes me whole.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 42,
+    "quote": "I will always fight for our love.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 43,
+    "quote": "Your presence is all I need to feel complete.",
+    "play": "As You Like It"
+  },
+  {
+    "id": 44,
+    "quote": "Without you, I am nothing.",
+    "play": "King Lear"
+  },
+  {
+    "id": 45,
+    "quote": "We were always meant to be together.",
+    "play": "The Winter’s Tale"
+  },
+  {
+    "id": 46,
+    "quote": "The love we share will never die.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 47,
+    "quote": "I would follow you anywhere, my love.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 48,
+    "quote": "No force in the world can break us apart.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 49,
+    "quote": "Your love is the music to my soul.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 50,
+    "quote": "You are the dream I never want to wake from.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 51,
+    "quote": "Through every storm, love will guide us.",
+    "play": "As You Like It"
+  },
+  {
+    "id": 52,
+    "quote": "My heart belongs to you.",
+    "play": "The Merchant of Venice"
+  },
+  {
+    "id": 53,
+    "quote": "Your love gives me wings.",
+    "play": "King Lear"
+  },
+  {
+    "id": 54,
+    "quote": "In your arms, I find my home.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 55,
+    "quote": "I never knew love until I met you.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 56,
+    "quote": "Without your love, I am lost.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 57,
+    "quote": "Love is what makes us stronger.",
+    "play": "The Winter’s Tale"
+  },
+  {
+    "id": 58,
+    "quote": "My heart beats only for you.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 59,
+    "quote": "You are the love I have been searching for.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 60,
+    "quote": "You are my beginning and my end.",
+    "play": "King Lear"
+  },
+  {
+    "id": 61,
+    "quote": "When we are apart, my heart is lost.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 62,
+    "quote": "Our love will endure, come what may.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 63,
+    "quote": "You make every day brighter.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 64,
+    "quote": "Your love fills my soul with light.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 65,
+    "quote": "Love is the answer to all our questions.",
+    "play": "As You Like It"
+  },
+  {
+    "id": 66,
+    "quote": "I will always be by your side.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 67,
+    "quote": "Nothing compares to the love we share.",
+    "play": "King Lear"
+  },
+  {
+    "id": 68,
+    "quote": "I am nothing without you.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 69,
+    "quote": "Together, we are invincible.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 70,
+    "quote": "Your love makes everything possible.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 71,
+    "quote": "You are my heart, my soul, my everything.",
+    "play": "The Winter’s Tale"
+  },
+  {
+    "id": 72,
+    "quote": "In your love, I find strength.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 73,
+    "quote": "I will love you forever and always.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 74,
+    "quote": "We are meant to be together, now and always.",
+    "play": "Much Ado About Nothing"
+  },
+  {
+    "id": 75,
+    "quote": "You are my world.",
+    "play": "King Lear"
+  },
+  {
+    "id": 76,
+    "quote": "Our love will stand the test of time.",
+    "play": "Twelfth Night"
+  },
+  {
+    "id": 77,
+    "quote": "You are my dream come true.",
+    "play": "Romeo and Juliet"
+  },
+  {
+    "id": 78,
+    "quote": "Your love gives me life.",
+    "play": "A Midsummer Night’s Dream"
+  },
+  {
+    "id": 79,
+    "quote": "Together we make a perfect whole.",
+    "play": "Hamlet"
+  },
+  {
+    "id": 80,
+    "quote": "Your love is the air I breathe.",
+    "play": "Romeo and Juliet"
+  }
+]
