@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: shakespeare-api
+    runtime: node
+    startCommand: node app.js
+    env: node
