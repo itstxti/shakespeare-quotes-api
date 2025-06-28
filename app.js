@@ -13,10 +13,13 @@ app.get('/', (req, res) => {
     <p>Endpoints disponibles:</p>
     <ul>
       <li><a href="/quotes">/quotes</a> - Todas las citas</li>
-      <li><a href="/quotes/random">/quotes/random</a> - Cita aleatoria</li>
-      <li><a href="/quotes/play/Hamlet">/quotes/play/Hamlet</a> - Citas por obra</li>
     </ul>
   `);
+});
+
+// Ruta GET /quotes (¡esto es lo que falta!)
+app.get('/quotes', (req, res) => {
+  res.json(quotes); // Devuelve todas las citas
 });
 
 const PORT = process.env.PORT || 3000;
